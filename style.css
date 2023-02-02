@@ -1,0 +1,11 @@
+h1{
+    color:crimson;
+}
+*{
+    border:solid
+}
+.header{
+    background-color: rgb(61, 13, 105);
+    display: flex;
+    justify-content:space-evenly;
+}
